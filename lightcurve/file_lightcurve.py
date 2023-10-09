@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Plotting lightcurve and spectrum
+# Seperates the date into on and off files
 
 #Import relevant functions
 from astropy.io import fits
