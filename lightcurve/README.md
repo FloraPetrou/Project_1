@@ -1,12 +1,12 @@
-# Contains the code to plot the lightcurve for the sources 
+# Lightcurve plotting code for the sources
 
-file_lightcurve.py contains the code to sperate the data into on and off frames. 
+file_lightcurve.py contains the code to sperate the data into on and off frames
 
 ```
 python /path/to/file_lightcurve.py /path/to/crop /path/to/comp ra dec --source_name  --alpha
 ```
 
-plot_lightcurve.py contains the code to plot the lightcurves.
+plot_lightcurve.py contains the code to plot the lightcurves
 
 ```
 python /path/to/plot_lightcurve.py /path/to/on /path/to/off --lightcurve_plot --source_name
